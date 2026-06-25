@@ -24,7 +24,7 @@ const institutions = [
     name: "Jacksonville Kollel",
     role: "Community kollel & learning",
     desc: "Adult Torah learning, chavrusas, and outreach. A serious learning anchor for families putting down roots.",
-    href: "https://www.jacksonvillekollel.com/jacksonville",
+    href: "https://www.jacksonvillekollel.com/",
   },
   {
     name: "Jacksonville Jewish",

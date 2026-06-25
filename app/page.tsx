@@ -7,13 +7,13 @@ import { OG_IMAGE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title:
-    "Jacksonville Jewish Learning Pod — Classical, Torah-rooted K–6 home school",
+    "Jacksonville Jewish Learning Pod — Classical, Torah-rooted home school",
   description:
-    "A small, rigorous home school learning pod in Jacksonville, FL. Classical academics, hands-on discovery, and serious Jewish learning for K–6 families.",
+    "A small, rigorous home school learning pod in Jacksonville, FL. Classical academics, hands-on discovery, and serious Jewish learning for families.",
   openGraph: {
     title: "Jacksonville Jewish Learning Pod",
     description:
-      "Classical learning, hands-on discovery, and a warm Jewish home for K–6 families in Jacksonville, FL.",
+      "Classical learning, hands-on discovery, and a warm Jewish home for families in Jacksonville, FL.",
     images: [OG_IMAGE],
   },
 };

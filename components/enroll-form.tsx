@@ -90,7 +90,7 @@ export function EnrollForm() {
         <Field label="Grade in 2026–27">
           <input
             name="grade"
-            placeholder="K, 1, 2…"
+            placeholder="6, 7, 8…"
             defaultValue={v?.grade}
             className={inputCls}
           />

@@ -6,7 +6,7 @@ import felicia from "@/app/assets/felicia.png";
 export const metadata: Metadata = {
   title: "About Felicia Gorelik",
   description:
-    "Founder Felicia Gorelik on her background, approach to teaching, and vision for K–6 Jewish learning in Jacksonville, FL.",
+    "Founder Felicia Gorelik on her background, approach to teaching, and vision for Jewish learning in Jacksonville, FL.",
   openGraph: {
     title: "About Felicia Gorelik — Founder",
     description:

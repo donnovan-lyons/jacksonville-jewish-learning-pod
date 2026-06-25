@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     template: "%s — Jacksonville Jewish Learning Pod",
   },
   description:
-    "A small, rigorous, Torah-rooted home school pod for K–6 families in Jacksonville, Florida.",
+    "A small, rigorous, Torah-rooted home school pod for families in Jacksonville, Florida.",
   authors: [{ name: "A Bright Light Education, LLC" }],
   icons: {
     icon: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Jacksonville Jewish Learning Pod",
     description:
-      "Classical learning, hands-on discovery, and a warm Jewish home for K–6 families in Jacksonville, FL.",
+      "Classical learning, hands-on discovery, and a warm Jewish home for families in Jacksonville, FL.",
     type: "website",
     images: [OG_IMAGE],
   },
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Jacksonville Jewish Learning Pod",
     description:
-      "Classical learning, hands-on discovery, and a warm Jewish home for K–6 families in Jacksonville, FL.",
+      "Classical learning, hands-on discovery, and a warm Jewish home for families in Jacksonville, FL.",
     images: [OG_IMAGE],
   },
 };

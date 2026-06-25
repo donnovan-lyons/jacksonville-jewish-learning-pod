@@ -4,11 +4,11 @@ import { PageHeader } from "@/components/page-header";
 export const metadata: Metadata = {
   title: "The Program",
   description:
-    "Classical academics, hands-on STEM, and serious Judaics — Chumash, Parsha, Tefillah, and rabbinic-led Gemara — for K–6 students in Jacksonville, FL.",
+    "Classical academics, hands-on STEM, and serious Judaics — Chumash, Parsha, Tefillah, and rabbinic-led Gemara — for students in Jacksonville, FL.",
   openGraph: {
     title: "The Program — Jacksonville Jewish Learning Pod",
     description:
-      "What we teach, how we teach it, and where we are going. A K–6 home school pod.",
+      "What we teach, how we teach it, and where we are going. A home school pod.",
   },
 };
 

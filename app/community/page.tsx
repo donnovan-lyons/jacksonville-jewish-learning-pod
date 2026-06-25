@@ -27,9 +27,9 @@ const institutions = [
     href: "https://www.jacksonvillekollel.com/jacksonville",
   },
   {
-    name: "Jewish Federation",
-    role: "Federation & community life",
-    desc: "Programming, events, and a hub for connecting newcomers to the broader Jewish community of Northeast Florida.",
+    name: "Jacksonville Jewish",
+    role: "Community guide & resources",
+    desc: "A welcoming guide to observant Jewish life in Jacksonville — shuls, schools, kosher, and a hub for connecting newcomers to the community.",
     href: "https://www.jacksonvillejewish.com/",
   },
   {

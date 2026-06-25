@@ -50,7 +50,7 @@ const stats: Array<[string, string]> = [
   ["Eruv", "Yes"],
   ["Mikvaos", "Two"],
   ["Daily minyan", "Yes"],
-  ["Kosher", "Local options & shipping"],
+  ["Kosher", "Local options & delivery"],
   ["Climate", "Subtropical, sunny"],
   ["State income tax", "None"],
 ];

@@ -3,6 +3,7 @@ import { Cormorant_Garamond, Work_Sans } from "next/font/google";
 import "./globals.css";
 import { SiteNav } from "@/components/site-nav";
 import { SiteFooter } from "@/components/site-footer";
+import { SITE_URL, OG_IMAGE } from "@/lib/site";
 
 const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -18,10 +19,6 @@ const workSans = Work_Sans({
   variable: "--font-work-sans",
   display: "swap",
 });
-
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
-const OG_IMAGE =
-  "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b68e255a-44e3-41b5-944a-cedc1b58b536/id-preview-5f06e156--8a8ef789-a351-4d8d-b89f-b46ff01c040c.lovable.app-1782315663521.png";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),

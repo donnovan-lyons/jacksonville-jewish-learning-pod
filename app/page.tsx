@@ -3,6 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import hero from "@/app/assets/hero.jpg";
 import learning from "@/app/assets/learning.jpg";
+import { OG_IMAGE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title:
@@ -13,6 +14,7 @@ export const metadata: Metadata = {
     title: "Jacksonville Jewish Learning Pod",
     description:
       "Classical learning, hands-on discovery, and a warm Jewish home for K–6 families in Jacksonville, FL.",
+    images: [OG_IMAGE],
   },
 };
 
